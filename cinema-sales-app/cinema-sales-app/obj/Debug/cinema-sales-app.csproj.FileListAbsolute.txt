@@ -1,0 +1,11 @@
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\bin\Debug\cinema-sales-app.exe.config
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\bin\Debug\cinema-sales-app.exe
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\bin\Debug\cinema-sales-app.pdb
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.csproj.AssemblyReference.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema_sales_app.Form1.resources
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema_sales_app.Properties.Resources.resources
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.csproj.GenerateResource.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.csproj.CoreCompileInputs.cache
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.exe
+C:\Users\ens_s\Desktop\Software\C# Course\cinema-sales-app\cinema-sales-app\obj\Debug\cinema-sales-app.pdb
